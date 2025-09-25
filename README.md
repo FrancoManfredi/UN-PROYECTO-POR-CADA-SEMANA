@@ -14,5 +14,4 @@ Este es un repositorio personal de aprendizaje, pero si tienes sugerencias, cons
 
 ## 📬 Contacto 
 
-- LinkedIn: [Franco Manfredi](https://www.linkedin.com/in/franco-manfredi-8a937b302/)
-- Email: franmanfrediii@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-manfredi-8a937b302/)  [![Email](https://img.shields.io/badge/Email-franmanfrediii%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franmanfrediii@gmail.com)
